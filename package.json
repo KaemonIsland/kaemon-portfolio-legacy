@@ -47,6 +47,7 @@
     "postcss-cli": "^6.0.0",
     "rimraf": "^2.5.4",
     "stylelint": "^9.4.0",
+    "surge": "^0.20.4",
     "uglify-es": "^3.3.10"
   },
   "homepage": "https://bitbucket.org/pasqualevitiello/blue#readme",
